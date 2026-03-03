@@ -1,0 +1,9 @@
+{
+  "name": "I Love You Cupcake",
+  "short_name": "Cupcake",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff1f5",
+  "theme_color": "#ff4d79",
+  "icons": []
+}
